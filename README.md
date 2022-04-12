@@ -1,6 +1,6 @@
-# minecraft-ondemand
+# Host and Play Minecraft On-Demand with AWS
 
-Almost free serverless on-demand Minecraft server in AWS
+"Almost free" serverless on-demand Minecraft server in AWS
 
 ## Table of Contents
 
