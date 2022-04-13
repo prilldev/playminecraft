@@ -30,7 +30,7 @@ twitter_username: aaronprill
 github_username:  prilldev
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
