@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Minecraft On-Demand with AWS
-permalink: /
 ---
+
 # Host and Play Minecraft On-Demand with AWS
 
 "Almost free" serverless on-demand Minecraft server in AWS
