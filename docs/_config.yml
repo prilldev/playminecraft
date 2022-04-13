@@ -28,7 +28,7 @@ twitter_username: aaronprill
 github_username:  prilldev
 
 # Build settings
-theme: jekyll-theme-hacker
+remote_theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
