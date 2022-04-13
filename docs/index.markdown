@@ -3,5 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Minecraft On-Demand with AWS
+permalink: /
 ---
 ## Home ##
